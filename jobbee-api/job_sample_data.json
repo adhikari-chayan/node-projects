@@ -1,0 +1,63 @@
+[
+    {
+       "title": "Node Js Intern",
+        "description": "Must be a full-stack developer, able to implement everything in a MEAN or MERN stack paradigm (MongoDB, Express, Angular and/or React, and Node.js).",
+        "email": "employeer1@gmail.com",
+        "address": "651 Rr 2, Oquawka, IL, 61469",
+        "company": "Knack Ltd",
+        "industry": [
+            "Information Technology"
+        ],
+        "jobType": "Permanent",
+        "minEducation": "Bachelors",
+        "positions": 2,
+        "experience": "No Experience",
+        "salary": "5000"
+    },
+    {
+        "title": "Node JS Developer",
+         "description": "Must be a full-stack developer, able to implement everything in a MEAN or MERN stack paradigm (MongoDB, Express, Angular and/or React, and Node.js).",
+         "email": "employeer1@gmail.com",
+         "address": "651 Rr 2, Oquawka, IL, 61469",
+         "company": "Knack Ltd",
+         "industry": [
+             "Information Technology"
+         ],
+         "jobType": "Permanent",
+         "minEducation": "Bachelors",
+         "positions": 2,
+         "experience": "1 Year - 2 Years",
+         "salary": "9000"
+     },
+     {
+        "title": "Node JS Expert Developer",
+         "description": "Must be a full-stack developer, able to implement everything in a MEAN or MERN stack paradigm (MongoDB, Express, Angular and/or React, and Node.js).",
+         "email": "employeer1@gmail.com",
+         "address": "651 Rr 2, Oquawka, IL, 61469",
+         "company": "Knack Ltd",
+         "industry": [
+             "Information Technology"
+         ],
+         "jobType": "Permanent",
+         "minEducation": "Bachelors",
+         "positions": 3,
+         "experience": "5 Years+",
+         "salary": "15000"
+     },    
+     {
+        "title": "Ruby Developer",
+         "description": "Must be a Ruby developer, able to implement everything in Ruby.",
+         "email": "employeer2@gmail.com",
+         "address": "200 Olympic Dr, Stafford, VA 22554, US",
+         "company": "Star Tech",
+         "industry": [
+             "Information Technology"
+         ],
+         "jobType": "Permanent",
+         "minEducation": "Bachelors",
+         "positions": 1,
+         "experience": "2 Years - 5 Years",
+         "salary": "115000"
+     }
+]
+
