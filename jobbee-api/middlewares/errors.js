@@ -14,7 +14,7 @@ module.exports = (err, req, res, next) => {
     
     if(process.env.NODE_ENV === 'production '){
         let error = {...err};      
-        error.message = err.message;//why is this needed ? 
+        error.message = err.message;//why is this needed? Ideally all property values will be copied from err 
 
         //Wrong Mongoose Object ID error
         if(err.name === 'CastError'){
